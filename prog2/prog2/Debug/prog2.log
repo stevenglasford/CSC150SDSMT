@@ -1,0 +1,8 @@
+﻿  prog2.cpp
+c:\users\7410128\google drive\school\university\computer science 1\prog2\prog2\prog2.cpp(17): error C4716: 'convertToRadians': must return a value
+c:\users\7410128\google drive\school\university\computer science 1\prog2\prog2\prog2.cpp(22): error C4716: 'my_ex': must return a value
+c:\users\7410128\google drive\school\university\computer science 1\prog2\prog2\prog2.cpp(32): error C4716: 'my_cos': must return a value
+c:\users\7410128\google drive\school\university\computer science 1\prog2\prog2\prog2.cpp(27): error C4716: 'my_sin': must return a value
+c:\users\7410128\google drive\school\university\computer science 1\prog2\prog2\prog2.cpp(38): error C4716: 'getNumTerms': must return a value
+c:\users\7410128\google drive\school\university\computer science 1\prog2\prog2\prog2.cpp(43): error C4716: 'getX': must return a value
+c:\users\7410128\google drive\school\university\computer science 1\prog2\prog2\prog2.cpp(48): error C4716: 'getDegrees': must return a value

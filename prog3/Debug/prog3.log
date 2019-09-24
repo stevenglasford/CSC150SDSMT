@@ -1,0 +1,6 @@
+﻿  prog3.cpp
+c:\users\7410128\google drive\school\university\computer science 1\prog3\prog3.cpp(81): warning C4244: 'argument': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+c:\users\7410128\google drive\school\university\computer science 1\prog3\prog3.cpp(93): warning C4244: 'argument': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+c:\users\7410128\google drive\school\university\computer science 1\prog3\prog3.cpp(162): warning C4101: 'votes': unreferenced local variable
+  prog3.vcxproj -> C:\Users\7410128\Google Drive\School\University\Computer Science 1\prog3\Debug\prog3.exe
+  prog3.vcxproj -> C:\Users\7410128\Google Drive\School\University\Computer Science 1\prog3\Debug\prog3.pdb (Partial PDB)

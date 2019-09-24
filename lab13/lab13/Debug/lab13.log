@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  lab13.cpp
+c:\users\7410128\google drive\school\university\computer science 1\lab13\lab13\lab13.cpp(22): warning C4101: 'target': unreferenced local variable
+  lab13.vcxproj -> C:\Users\7410128\Google Drive\School\University\Computer Science 1\lab13\Debug\lab13.exe

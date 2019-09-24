@@ -1,0 +1,4 @@
+﻿  lab3.cpp
+c:\users\7410128\google drive\school\university\computer science 1\lab3\lab3\lab3.cpp(22): error C2065: 'cout': undeclared identifier
+c:\users\7410128\google drive\school\university\computer science 1\lab3\lab3\lab3.cpp(22): error C2065: 'flush': undeclared identifier
+c:\users\7410128\google drive\school\university\computer science 1\lab3\lab3\lab3.cpp(23): error C2065: 'cin': undeclared identifier

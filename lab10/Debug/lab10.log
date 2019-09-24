@@ -1,0 +1,6 @@
+﻿  lab10.cpp
+c:\users\7410128\google drive\school\university\computer science 1\lab10\lab10.cpp(33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\7410128\google drive\school\university\computer science 1\lab10\lab10.cpp(76): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\7410128\google drive\school\university\computer science 1\lab10\lab10.cpp(79): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  lab10.vcxproj -> C:\Users\7410128\Google Drive\School\University\Computer Science 1\lab10\Debug\lab10.exe
+  lab10.vcxproj -> C:\Users\7410128\Google Drive\School\University\Computer Science 1\lab10\Debug\lab10.pdb (Partial PDB)

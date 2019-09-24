@@ -1,0 +1,22 @@
+﻿  ConsoleApplication1.cpp
+c:\users\7410128\google drive\school\university\computer science 1\lab3\consoleapplication1\consoleapplication1.cpp(13): error C2065: 'cout': undeclared identifier
+c:\users\7410128\google drive\school\university\computer science 1\lab3\consoleapplication1\consoleapplication1.cpp(13): error C2065: 'flush': undeclared identifier
+c:\users\7410128\google drive\school\university\computer science 1\lab3\consoleapplication1\consoleapplication1.cpp(14): error C2065: 'cin': undeclared identifier
+c:\users\7410128\google drive\school\university\computer science 1\lab3\consoleapplication1\consoleapplication1.cpp(15): error C2065: 'cout': undeclared identifier
+c:\users\7410128\google drive\school\university\computer science 1\lab3\consoleapplication1\consoleapplication1.cpp(15): error C2065: 'endl': undeclared identifier
+c:\users\7410128\google drive\school\university\computer science 1\lab3\consoleapplication1\consoleapplication1.cpp(19): error C2065: 'cout': undeclared identifier
+c:\users\7410128\google drive\school\university\computer science 1\lab3\consoleapplication1\consoleapplication1.cpp(19): error C2065: 'flush': undeclared identifier
+c:\users\7410128\google drive\school\university\computer science 1\lab3\consoleapplication1\consoleapplication1.cpp(20): error C2065: 'cin': undeclared identifier
+c:\users\7410128\google drive\school\university\computer science 1\lab3\consoleapplication1\consoleapplication1.cpp(21): error C2065: 'cout': undeclared identifier
+c:\users\7410128\google drive\school\university\computer science 1\lab3\consoleapplication1\consoleapplication1.cpp(21): error C2065: 'endl': undeclared identifier
+c:\users\7410128\google drive\school\university\computer science 1\lab3\consoleapplication1\consoleapplication1.cpp(25): error C2065: 'cout': undeclared identifier
+c:\users\7410128\google drive\school\university\computer science 1\lab3\consoleapplication1\consoleapplication1.cpp(25): error C2065: 'flush': undeclared identifier
+c:\users\7410128\google drive\school\university\computer science 1\lab3\consoleapplication1\consoleapplication1.cpp(26): error C2065: 'cin': undeclared identifier
+c:\users\7410128\google drive\school\university\computer science 1\lab3\consoleapplication1\consoleapplication1.cpp(27): error C2065: 'cout': undeclared identifier
+c:\users\7410128\google drive\school\university\computer science 1\lab3\consoleapplication1\consoleapplication1.cpp(27): error C2065: 'endl': undeclared identifier
+c:\users\7410128\google drive\school\university\computer science 1\lab3\consoleapplication1\consoleapplication1.cpp(52): error C2065: 'cout': undeclared identifier
+c:\users\7410128\google drive\school\university\computer science 1\lab3\consoleapplication1\consoleapplication1.cpp(52): error C3861: 'setprecision': identifier not found
+c:\users\7410128\google drive\school\university\computer science 1\lab3\consoleapplication1\consoleapplication1.cpp(53): error C2065: 'cout': undeclared identifier
+c:\users\7410128\google drive\school\university\computer science 1\lab3\consoleapplication1\consoleapplication1.cpp(53): error C3861: 'setprecision': identifier not found
+c:\users\7410128\google drive\school\university\computer science 1\lab3\consoleapplication1\consoleapplication1.cpp(54): error C2065: 'cout': undeclared identifier
+c:\users\7410128\google drive\school\university\computer science 1\lab3\consoleapplication1\consoleapplication1.cpp(54): error C2065: 'endl': undeclared identifier
